@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+pandas
+chemics
+flake8
+Cantera
+SALib
